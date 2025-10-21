@@ -1,0 +1,1 @@
+ALTER TABLE "members" ADD COLUMN "category" varchar(255);
